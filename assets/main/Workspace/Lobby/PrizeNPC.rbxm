@@ -818,6 +818,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -1586,6 +1587,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -2114,6 +2116,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -2376,6 +2379,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -2638,6 +2642,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -2900,6 +2905,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -3162,6 +3168,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -3462,6 +3469,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -3724,6 +3732,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -4176,6 +4185,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -4438,6 +4448,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -4700,6 +4711,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -4962,6 +4974,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -5224,6 +5237,7 @@
         <bool name="DefinesCapabilities">false</bool>
         <bool name="DoubleSided">false</bool>
         <bool name="EnableFluidForces">true</bool>
+        <token name="FluidFidelityInternal">0</token>
         <float name="FrontParamA">-0.5</float>
         <float name="FrontParamB">0.5</float>
         <token name="FrontSurface">0</token>
@@ -7113,8 +7127,8 @@ end
           <int64 name="ClimbAnimation">2510230574</int64>
           <bool name="DefinesCapabilities">false</bool>
           <float name="DepthScale">1</float>
-          <string name="EmotesDataInternal">Confused^4940592718^\Robot^3576721660^\Tantrum^5104374556^\Beckon^5230615437^\Happy^4849499887^\Shy^3576717965^\Top Rock^3570535774^\Celebrate^3994127840^\Fashionable^3576745472^\Agree^4849487550^\Shrug^3576968026^\Greatest^3762654854^\Point2^3576823880^\</string>
-          <string name="EquippedEmotesDataInternal">8^Tantrum\7^Top Rock\6^Celebrate\5^Beckon\4^Agree\3^Shy\2^Shrug\1^Point2\</string>
+          <string name="EmotesDataInternal">Point2^3576823880^\Agree^4849487550^\Fashionable^3576745472^\Greatest^3762654854^\Shrug^3576968026^\Celebrate^3994127840^\Top Rock^3570535774^\Shy^3576717965^\Happy^4849499887^\Beckon^5230615437^\Tantrum^5104374556^\Robot^3576721660^\Confused^4940592718^\</string>
+          <string name="EquippedEmotesDataInternal">1^Point2\2^Shrug\3^Shy\4^Agree\5^Beckon\6^Celebrate\7^Top Rock\8^Tantrum\</string>
           <int64 name="Face">0</int64>
           <string name="FaceAccessory"></string>
           <int64 name="FallAnimation">2510233257</int64>
